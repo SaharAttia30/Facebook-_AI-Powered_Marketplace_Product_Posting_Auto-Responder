@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\programing_project\facebook1\chat_all\ChatBlaster\ChatBlaster\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AddUpdateAvatarBulkForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddUpdateAvatarForm .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddUpdateCompanyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddUpdateServiceAreaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddUpdateServiceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
